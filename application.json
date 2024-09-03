@@ -18,8 +18,24 @@
   "icon": "frame",
   "pages": [
     {
-      "id": "Page1",
+      "id": "all",
       "isDefault": true
+    },
+    {
+      "id": "rw",
+      "isDefault": false
+    },
+    {
+      "id": "r",
+      "isDefault": false
+    },
+    {
+      "id": "1",
+      "isDefault": false
+    },
+    {
+      "id": "fire",
+      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {

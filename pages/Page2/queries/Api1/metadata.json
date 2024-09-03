@@ -21,7 +21,7 @@
       "pluginId": "restapi-plugin"
     },
     "dynamicBindingPathList": [],
-    "executeOnLoad": false,
+    "executeOnLoad": true,
     "name": "Api1",
     "pageId": "Page2",
     "userSetOnLoad": true

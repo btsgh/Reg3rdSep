@@ -1,0 +1,44 @@
+{
+  "animateLoading": true,
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 70,
+  "boxShadow": "none",
+  "defaultImage": "{{Table1.selectedRow.previewURL}}",
+  "dynamicBindingPathList": [
+    {
+      "key": "borderRadius"
+    },
+    {
+      "key": "defaultImage"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "enableDownload": false,
+  "enableRotation": false,
+  "flexVerticalAlignment": "start",
+  "image": "",
+  "imageShape": "RECTANGLE",
+  "isLoading": false,
+  "isVisible": true,
+  "key": "xwk82vcuch",
+  "leftColumn": 34,
+  "maxZoomLevel": 1,
+  "mobileBottomRow": 59,
+  "mobileLeftColumn": 22,
+  "mobileRightColumn": 34,
+  "mobileTopRow": 47,
+  "needsErrorInfo": false,
+  "objectFit": "cover",
+  "originalBottomRow": 70,
+  "originalTopRow": 58,
+  "parentColumnSpace": 13.03125,
+  "parentId": "0",
+  "parentRowSpace": 10,
+  "renderMode": "CANVAS",
+  "rightColumn": 46,
+  "topRow": 58,
+  "type": "IMAGE_WIDGET",
+  "version": 1,
+  "widgetId": "yn3knkappu",
+  "widgetName": "Image1"
+}

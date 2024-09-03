@@ -18,16 +18,16 @@
   "icon": "frame",
   "pages": [
     {
-      "id": "Page1",
+      "id": "Second page",
+      "isDefault": false
+    },
+    {
+      "id": "First page",
+      "isDefault": false
+    },
+    {
+      "id": "Third page",
       "isDefault": true
-    },
-    {
-      "id": "Page2",
-      "isDefault": false
-    },
-    {
-      "id": "Page3",
-      "isDefault": false
     }
   ],
   "unpublishedApplicationDetail": {

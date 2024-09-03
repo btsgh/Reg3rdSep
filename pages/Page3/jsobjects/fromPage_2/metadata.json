@@ -1,9 +1,9 @@
 {
-  "gitSyncId": "66d69f9823b718138a4ef71b_becee8cb-cb1f-4b80-acd7-cbae995a7d2c",
-  "id": "Page2_JSObject1",
+  "gitSyncId": "66d69f9823b718138a4ef71b_198ee11e-e208-4618-88f9-323428f3242d",
+  "id": "Page3_fromPage_2",
   "unpublishedCollection": {
-    "name": "JSObject1",
-    "pageId": "Page2",
+    "name": "fromPage_2",
+    "pageId": "Page3",
     "pluginId": "js-plugin",
     "pluginType": "JS",
     "variables": [

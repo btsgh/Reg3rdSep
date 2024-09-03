@@ -14,6 +14,7 @@
       "key": "borderRadius"
     }
   ],
+  "dynamicPropertyPathList": [],
   "dynamicTriggerPathList": [
     {
       "key": "onClick"
@@ -31,7 +32,7 @@
   "mobileRightColumn": 16,
   "mobileTopRow": 19,
   "needsErrorInfo": false,
-  "onClick": "{{JSObject1.myFun1();}}",
+  "onClick": "{{appsmith.geolocation.getCurrentPosition((location) => {\n      // add code here\n    });}}",
   "parentColumnSpace": 13.03125,
   "parentId": "0",
   "parentRowSpace": 10,

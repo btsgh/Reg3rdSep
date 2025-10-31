@@ -49,10 +49,10 @@
         "key": "queryParameters[1].value"
       }
     ],
-    "executeOnLoad": false,
     "fullyQualifiedName": "SearchVideoPixabay",
     "name": "SearchVideoPixabay",
     "pageId": "Page2",
+    "runBehaviour": "MANUAL",
     "userSetOnLoad": false
   }
 }
